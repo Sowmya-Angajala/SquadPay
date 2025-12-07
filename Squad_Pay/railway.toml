@@ -1,6 +1,0 @@
-[build]
-builder = "NIXPACKS"
-buildCommand = "cd Squad_Pay && npm install"
-
-[start]
-startCommand = "cd Squad_Pay && npm start"
